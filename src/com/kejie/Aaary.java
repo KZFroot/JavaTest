@@ -29,6 +29,7 @@ public class Aaary {
         for (String name1:name) {
             //name1="疯狂的and";  
             System.out.println(name1);
+            System.out.println("测试代码提交");
         }
         //System.out.println(name[0]);
     }
