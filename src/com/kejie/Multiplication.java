@@ -1,2 +1,3 @@
-package com.kejie;public class Multiplication {
+package com.kejie;
+public class Multiplication {
 }
