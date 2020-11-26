@@ -28,10 +28,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b97ac318-e6d2-48b2-bc2f-219b151320e2" name="Default Changelist" comment="测试提交">
-      <change afterPath="$PROJECT_DIR$/src/com/kejie/Num2Rmb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Cycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kejie/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kejie/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Num2Rmb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Num2Rmb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kejie/Gobang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kejie/Gobang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kejie/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kejie/Multiplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,22 +92,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="consents" />
   </component>
-  <component name="RunManager" selected="Application.Num2Rmb">
+  <component name="RunManager" selected="Application.Multiplication">
     <configuration name="Aaary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kejie.Aaary" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kejie.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayInRam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kejie.ArrayInRam" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +119,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nestedoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kejie.Nestedoop" />
+    <configuration name="Gobang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kejie.Gobang" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kejie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kejie.Multiplication" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -173,19 +173,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.Nestedoop" />
       <item itemvalue="Application.Aaary" />
-      <item itemvalue="Application.ArrayInRam" />
       <item itemvalue="Application.Arrays" />
       <item itemvalue="Application.Num2Rmb" />
+      <item itemvalue="Application.Gobang" />
+      <item itemvalue="Application.Multiplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Multiplication" />
+        <item itemvalue="Application.Gobang" />
         <item itemvalue="Application.Num2Rmb" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.Aaary" />
-        <item itemvalue="Application.ArrayInRam" />
-        <item itemvalue="Application.Nestedoop" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +216,12 @@
       <workItem from="1605795800810" duration="1251000" />
       <workItem from="1606019234155" duration="1205000" />
       <workItem from="1606026523183" duration="2061000" />
-      <workItem from="1606088973012" duration="10732000" />
+      <workItem from="1606088973012" duration="17121000" />
+      <workItem from="1606407665247" duration="441000" />
+      <workItem from="1606408810975" duration="5000" />
+      <workItem from="1606408970333" duration="665000" />
+      <workItem from="1606409733448" duration="18000" />
+      <workItem from="1606409797665" duration="917000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -268,26 +273,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="519" y="597" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605774247281" />
-    <state width="1262" height="366" key="GridCell.Tab.0.bottom" timestamp="1606120929509">
+    <state width="1262" height="366" key="GridCell.Tab.0.bottom" timestamp="1606126083163">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1397" height="226" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
-    <state width="1262" height="366" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606120929509" />
-    <state width="1262" height="366" key="GridCell.Tab.0.center" timestamp="1606120929509">
+    <state width="1262" height="366" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
+    <state width="1262" height="366" key="GridCell.Tab.0.center" timestamp="1606126083163">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1397" height="226" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
-    <state width="1262" height="366" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606120929509" />
-    <state width="1262" height="366" key="GridCell.Tab.0.left" timestamp="1606120929509">
+    <state width="1262" height="366" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
+    <state width="1262" height="366" key="GridCell.Tab.0.left" timestamp="1606126083163">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1397" height="226" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
-    <state width="1262" height="366" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606120929509" />
-    <state width="1262" height="366" key="GridCell.Tab.0.right" timestamp="1606120929509">
+    <state width="1262" height="366" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
+    <state width="1262" height="366" key="GridCell.Tab.0.right" timestamp="1606126083163">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1397" height="226" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
-    <state width="1262" height="366" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606120929509" />
+    <state width="1262" height="366" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
     <state width="1262" height="490" key="GridCell.Tab.1.bottom" timestamp="1606120812978">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -317,10 +322,10 @@
     </state>
     <state x="222" y="105" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1604055231563" />
     <state x="1" y="223" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1605797052490" />
-    <state x="239" y="433" key="Vcs.Push.Dialog.v2" timestamp="1605795891522">
+    <state x="239" y="433" key="Vcs.Push.Dialog.v2" timestamp="1606126744866">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="239" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605795891522" />
+    <state x="239" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606126744866" />
     <state x="100" y="100" width="1094" height="1200" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605775291319">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -330,11 +335,11 @@
     </state>
     <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1604604216539" />
     <state x="670" y="321" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606114693334" />
-    <state x="681" y="297" width="1195" height="1032" key="search.everywhere.popup" timestamp="1606114514378">
+    <state x="681" y="297" width="1195" height="1032" key="search.everywhere.popup" timestamp="1606123383223">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1605514887232" />
-    <state x="681" y="297" width="1195" height="1032" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606114514378" />
+    <state x="681" y="297" width="1195" height="1032" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606123383223" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
