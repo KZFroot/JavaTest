@@ -43,3 +43,4 @@ public class Multiplication {
         nie();
     }
 }
+
