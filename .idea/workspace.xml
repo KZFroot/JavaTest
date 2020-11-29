@@ -23,7 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b97ac318-e6d2-48b2-bc2f-219b151320e2" name="Default Changelist" comment="测试提交">
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/OverloadVarargs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,9 +92,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.Overload">
-    <configuration name="Gobang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kejie.Gobang" />
+  <component name="RunManager" selected="Application.ClassVariables">
+    <configuration name="ClassVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.ClassVariables" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -159,32 +158,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.Gobang" />
       <item itemvalue="Application.Multiplication" />
       <item itemvalue="Application.Varargs" />
       <item itemvalue="Application.Recursive" />
       <item itemvalue="Application.Overload" />
+      <item itemvalue="Application.ClassVariables" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassVariables" />
         <item itemvalue="Application.Overload" />
         <item itemvalue="Application.Recursive" />
         <item itemvalue="Application.Varargs" />
         <item itemvalue="Application.Multiplication" />
-        <item itemvalue="Application.Gobang" />
       </list>
     </recent_temporary>
   </component>
@@ -221,6 +222,7 @@
       <workItem from="1606408970333" duration="665000" />
       <workItem from="1606409733448" duration="18000" />
       <workItem from="1606409797665" duration="917000" />
+      <workItem from="1606653861034" duration="3994000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -281,28 +283,28 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="519" y="597" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605774247281" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1606565141502">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1606667669900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606565141502" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606667669900" />
     <state width="1397" height="226" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1262" height="366" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1606565141502">
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1606667669900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606565141502" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606667669900" />
     <state width="1397" height="226" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1262" height="366" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1606565141502">
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1606667669900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606565141502" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606667669900" />
     <state width="1397" height="226" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1262" height="366" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1606565141502">
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1606667669900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606565141502" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606667669900" />
     <state width="1397" height="226" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1262" height="366" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
     <state width="1262" height="490" key="GridCell.Tab.1.bottom" timestamp="1606120812978">
@@ -377,11 +379,6 @@
           <url>file://$PROJECT_DIR$/src/com/oriented/ReferenceTransferTest.java</url>
           <line>4</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/oriented/ReferenceTransferTest.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/oriented/PrimitiveTransferTest.java</url>
