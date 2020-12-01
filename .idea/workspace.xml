@@ -29,9 +29,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b97ac318-e6d2-48b2-bc2f-219b151320e2" name="Default Changelist" comment="测试提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Num2Rmb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Num2Rmb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kejie/Gobang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kejie/Gobang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kejie/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kejie/Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oriented/DateWrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/DateWrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oriented/ReferenceTransferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/ReferenceTransferTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,19 +157,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
       <item itemvalue="Application.Aaary" />
@@ -221,7 +207,8 @@
       <workItem from="1606408810975" duration="5000" />
       <workItem from="1606408970333" duration="665000" />
       <workItem from="1606409733448" duration="18000" />
-      <workItem from="1606409797665" duration="917000" />
+      <workItem from="1606409797665" duration="2456000" />
+      <workItem from="1606832446002" duration="1817000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -313,10 +300,10 @@
     </state>
     <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1604929021464" />
     <state width="1262" height="490" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606120812977" />
-    <state x="1094" y="401" key="RollbackChangesDialog" timestamp="1606025867499">
+    <state x="1094" y="401" key="RollbackChangesDialog" timestamp="1606410705116">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1094" y="401" key="RollbackChangesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1606025867499" />
+    <state x="1094" y="401" key="RollbackChangesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1606410705116" />
     <state x="1" y="223" key="SettingsEditor" timestamp="1605797052490">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
