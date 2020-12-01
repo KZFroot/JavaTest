@@ -157,6 +157,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
       <item itemvalue="Application.Aaary" />
@@ -208,7 +219,7 @@
       <workItem from="1606408970333" duration="665000" />
       <workItem from="1606409733448" duration="18000" />
       <workItem from="1606409797665" duration="2456000" />
-      <workItem from="1606832446002" duration="1817000" />
+      <workItem from="1606832446002" duration="1872000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
