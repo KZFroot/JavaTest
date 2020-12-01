@@ -1,4 +1,6 @@
-package com.oriented;public class DateWrap {
+
+package com.oriented;
+public class DateWrap {
     int a;
     int b;
 }
