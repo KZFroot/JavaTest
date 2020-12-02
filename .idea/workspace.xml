@@ -22,10 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b97ac318-e6d2-48b2-bc2f-219b151320e2" name="Default Changelist" comment="测试提交">
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/BlockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/VariableOverrideTest.java" afterDir="false" />
+    <list default="true" id="b97ac318-e6d2-48b2-bc2f-219b151320e2" name="Default Changelist" comment="1202">
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/StaticImportTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/pig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/pig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oriented/Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/Pig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +98,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.PigTest">
+  <component name="RunManager" selected="Application.ConstructorTest">
     <configuration name="ClassVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oriented.ClassVariables" />
       <module name="JavaTest" />
@@ -110,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.Overload" />
+    <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.ConstructorTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.Recursive" />
+    <configuration name="StaticImportTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.StaticImportTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -175,19 +177,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.Recursive" />
-      <item itemvalue="Application.Overload" />
       <item itemvalue="Application.ClassVariables" />
       <item itemvalue="Application.VariableOverrideTest" />
       <item itemvalue="Application.PigTest" />
+      <item itemvalue="Application.StaticImportTest" />
+      <item itemvalue="Application.ConstructorTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorTest" />
+        <item itemvalue="Application.StaticImportTest" />
         <item itemvalue="Application.PigTest" />
         <item itemvalue="Application.VariableOverrideTest" />
         <item itemvalue="Application.ClassVariables" />
-        <item itemvalue="Application.Overload" />
-        <item itemvalue="Application.Recursive" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605774822687</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1202">
+      <created>1606894359780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606894359802</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +260,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
+    <MESSAGE value="1202" />
+    <option name="LAST_COMMIT_MESSAGE" value="1202" />
   </component>
   <component name="WindowStateProjectService">
     <state x="203" y="272" key="#Notifications" timestamp="1606526646682">
@@ -283,28 +293,28 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="519" y="597" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605774247281" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1606667669900">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1606900623711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606667669900" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606900623711" />
     <state width="1397" height="226" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1262" height="366" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1606667669900">
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1606900623711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606667669900" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606900623711" />
     <state width="1397" height="226" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1262" height="366" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1606667669900">
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1606900623710">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606667669900" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606900623710" />
     <state width="1397" height="226" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1262" height="366" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1606667669900">
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1606900623711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606667669900" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606900623711" />
     <state width="1397" height="226" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1262" height="366" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
     <state width="1262" height="490" key="GridCell.Tab.1.bottom" timestamp="1606120812978">

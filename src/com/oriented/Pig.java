@@ -1,4 +1,5 @@
 package com.oriented;
+import java.util.Arrays;
 
 public class Pig {
     //使用private修饰成员变量，将这些成员变量隐藏起来
@@ -13,6 +14,7 @@ public class Pig {
             return;
         } else {
             this.name = name;
+          //  Arrays.equals()
         }
     }
 
