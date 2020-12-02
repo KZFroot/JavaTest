@@ -30,10 +30,7 @@ public class Pig {
             this.age = age;
         }
     }
-
     public int getAge() {
         return this.age = age;
     }
-
-
 }
