@@ -1,5 +1,5 @@
-package com.oriented;
 
+package com.oriented;
 public class DateWrap {
     int a;
     int b;

@@ -96,7 +96,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.VariableOverrideTest">
+  <component name="RunManager" selected="Application.PigTest">
     <configuration name="ClassVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oriented.ClassVariables" />
       <module name="JavaTest" />
@@ -123,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.Recursive" />
+    <configuration name="PigTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.PigTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.Varargs" />
+    <configuration name="Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.Recursive" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -162,21 +162,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.Varargs" />
       <item itemvalue="Application.Recursive" />
       <item itemvalue="Application.Overload" />
       <item itemvalue="Application.ClassVariables" />
       <item itemvalue="Application.VariableOverrideTest" />
+      <item itemvalue="Application.PigTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PigTest" />
         <item itemvalue="Application.VariableOverrideTest" />
         <item itemvalue="Application.ClassVariables" />
         <item itemvalue="Application.Overload" />
         <item itemvalue="Application.Recursive" />
-        <item itemvalue="Application.Varargs" />
       </list>
     </recent_temporary>
   </component>
@@ -212,8 +223,6 @@
       <workItem from="1606408810975" duration="5000" />
       <workItem from="1606408970333" duration="665000" />
       <workItem from="1606409733448" duration="18000" />
-      <workItem from="1606409797665" duration="917000" />
-      <workItem from="1606653861034" duration="7189000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
