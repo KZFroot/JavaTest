@@ -23,11 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b97ac318-e6d2-48b2-bc2f-219b151320e2" name="Default Changelist" comment="1202">
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/ConstructorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/StaticImportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/ConstructorOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/Fruit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/pig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/pig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oriented/Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/Pig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,9 +97,22 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.ConstructorTest">
-    <configuration name="ClassVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.ClassVariables" />
+  <component name="RunManager" selected="Application.Apple">
+    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.Apple" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.ConstructorOverload" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -151,45 +163,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableOverrideTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.VariableOverrideTest" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.ClassVariables" />
-      <item itemvalue="Application.VariableOverrideTest" />
       <item itemvalue="Application.PigTest" />
       <item itemvalue="Application.StaticImportTest" />
       <item itemvalue="Application.ConstructorTest" />
+      <item itemvalue="Application.ConstructorOverload" />
+      <item itemvalue="Application.Apple" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Apple" />
+        <item itemvalue="Application.ConstructorOverload" />
         <item itemvalue="Application.ConstructorTest" />
         <item itemvalue="Application.StaticImportTest" />
         <item itemvalue="Application.PigTest" />
-        <item itemvalue="Application.VariableOverrideTest" />
-        <item itemvalue="Application.ClassVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +226,7 @@
       <workItem from="1606408810975" duration="5000" />
       <workItem from="1606408970333" duration="665000" />
       <workItem from="1606409733448" duration="18000" />
+      <workItem from="1607001997003" duration="4875000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -293,28 +295,28 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="519" y="597" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605774247281" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1606900623711">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1607012048821">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606900623711" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607012048821" />
     <state width="1397" height="226" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1262" height="366" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1606900623711">
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1607012048820">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606900623711" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607012048820" />
     <state width="1397" height="226" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1262" height="366" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1606900623710">
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1607012048820">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606900623710" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607012048820" />
     <state width="1397" height="226" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1262" height="366" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1606900623711">
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1607012048820">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606900623711" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607012048820" />
     <state width="1397" height="226" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1262" height="366" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
     <state width="1262" height="490" key="GridCell.Tab.1.bottom" timestamp="1606120812978">
@@ -370,10 +372,10 @@
     <state x="358" y="167" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606316692302" />
     <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1604604216539" />
     <state x="670" y="321" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606114693334" />
-    <state x="681" y="297" width="1195" height="1032" key="search.everywhere.popup" timestamp="1606123383223">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup" timestamp="1607011933234">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606347921210" />
+    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607011933234" />
     <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1605514887232" />
     <state x="681" y="297" width="1195" height="1032" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606123383223" />
   </component>
@@ -384,19 +386,6 @@
           <url>file://$PROJECT_DIR$/src/com/kejie/Arrays.java</url>
           <line>40</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/oriented/ReferenceTransferTest.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/oriented/PrimitiveTransferTest.java</url>
-          <line>6</line>
-          <properties class="com.oriented.PrimitiveTransferTest" method="swap">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
