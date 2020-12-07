@@ -23,8 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b97ac318-e6d2-48b2-bc2f-219b151320e2" name="Default Changelist" comment="1202">
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/Ostrich.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,17 +160,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
       <item itemvalue="Application.StaticImportTest" />
@@ -225,6 +212,7 @@
       <workItem from="1606409733448" duration="18000" />
       <workItem from="1607001997003" duration="5114000" />
       <workItem from="1607236939407" duration="4690000" />
+      <workItem from="1607364660124" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
