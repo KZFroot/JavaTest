@@ -23,6 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b97ac318-e6d2-48b2-bc2f-219b151320e2" name="Default Changelist" comment="1202">
+      <change afterPath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Ostrich.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/Derived.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/HideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/Ostrich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/Parent.java" afterDir="false" />
+      &gt;&gt;&gt;&gt;&gt;&gt;&gt; c854a8f8797c9151f1df9c711147da290113784d
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,35 +102,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.Ostrich">
-    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.Apple" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConstructorOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.ConstructorOverload" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.ConstructorTest" />
+  <component name="RunManager" selected="Application.HideTest">
+    <configuration name="HideTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.HideTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -147,34 +129,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticImportTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.StaticImportTest" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.StaticImportTest" />
-      <item itemvalue="Application.ConstructorTest" />
-      <item itemvalue="Application.ConstructorOverload" />
-      <item itemvalue="Application.Apple" />
       <item itemvalue="Application.Ostrich" />
+      <item itemvalue="Application.HideTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HideTest" />
         <item itemvalue="Application.Ostrich" />
-        <item itemvalue="Application.Apple" />
-        <item itemvalue="Application.ConstructorOverload" />
-        <item itemvalue="Application.ConstructorTest" />
-        <item itemvalue="Application.StaticImportTest" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +233,10 @@
     </state>
     <state x="203" y="272" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1606526646682" />
     <state x="381" y="523" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1605774411848" />
+    <state x="120" y="274" key="#Project_Structure" timestamp="1607174289140">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="120" y="274" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1607174289140" />
     <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1606201278973">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -281,30 +261,30 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="519" y="597" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605774247281" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1607251436694">
+    <state width="1306" height="168" key="GridCell.Tab.0.bottom" timestamp="1607370967487">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607251436694" />
+    <state width="1306" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607370967487" />
     <state width="1397" height="226" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
-    <state width="1262" height="366" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1607251436694">
+    <state width="1194" height="362" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
+    <state width="1306" height="168" key="GridCell.Tab.0.center" timestamp="1607370967487">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607251436694" />
+    <state width="1306" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607370967487" />
     <state width="1397" height="226" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
-    <state width="1262" height="366" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1607251436694">
+    <state width="1194" height="362" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
+    <state width="1306" height="168" key="GridCell.Tab.0.left" timestamp="1607370967487">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607251436694" />
+    <state width="1306" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607370967487" />
     <state width="1397" height="226" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
-    <state width="1262" height="366" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1607251436694">
+    <state width="1194" height="362" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
+    <state width="1306" height="168" key="GridCell.Tab.0.right" timestamp="1607370967487">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607251436694" />
+    <state width="1306" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607370967487" />
     <state width="1397" height="226" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
-    <state width="1262" height="366" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606126083163" />
+    <state width="1194" height="362" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
     <state width="1262" height="490" key="GridCell.Tab.1.bottom" timestamp="1606120812978">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
