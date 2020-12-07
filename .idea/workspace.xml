@@ -23,9 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b97ac318-e6d2-48b2-bc2f-219b151320e2" name="Default Changelist" comment="1202">
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/ConstructorOverload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/Fruit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +94,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.Apple">
+  <component name="RunManager" selected="Application.DogTest">
     <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oriented.Apple" />
       <module name="JavaTest" />
@@ -137,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PigTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.PigTest" />
+    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.DogTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -178,19 +175,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.PigTest" />
       <item itemvalue="Application.StaticImportTest" />
       <item itemvalue="Application.ConstructorTest" />
       <item itemvalue="Application.ConstructorOverload" />
       <item itemvalue="Application.Apple" />
+      <item itemvalue="Application.DogTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DogTest" />
         <item itemvalue="Application.Apple" />
         <item itemvalue="Application.ConstructorOverload" />
         <item itemvalue="Application.ConstructorTest" />
         <item itemvalue="Application.StaticImportTest" />
-        <item itemvalue="Application.PigTest" />
       </list>
     </recent_temporary>
   </component>
@@ -227,6 +224,7 @@
       <workItem from="1606408970333" duration="665000" />
       <workItem from="1606409733448" duration="18000" />
       <workItem from="1607001997003" duration="4875000" />
+      <workItem from="1607324400423" duration="841000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -271,6 +269,10 @@
     </state>
     <state x="203" y="272" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1606526646682" />
     <state x="381" y="523" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1605774411848" />
+    <state x="120" y="274" key="#Project_Structure" timestamp="1607174289140">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="120" y="274" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1607174289140" />
     <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1606201278973">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
