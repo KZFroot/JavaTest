@@ -24,11 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b97ac318-e6d2-48b2-bc2f-219b151320e2" name="Default Changelist" comment="1202">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oriented/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oriented/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oriented/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/Creature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/oriented/SubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/SubClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oriented/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/Wolf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +96,19 @@
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RunManager" selected="Application.SubClass">
+    <configuration name="BlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.BlockTest" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HideTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oriented.HideTest" />
       <module name="JavaTest" />
@@ -113,8 +122,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ostrich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.Ostrich" />
+    <configuration name="PigTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.PigTest" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScopeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.ScopeTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -139,32 +161,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wolf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.Wolf" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.Ostrich" />
       <item itemvalue="Application.HideTest" />
-      <item itemvalue="Application.Wolf" />
       <item itemvalue="Application.SubClass" />
+      <item itemvalue="Application.ScopeTest" />
+      <item itemvalue="Application.PigTest" />
+      <item itemvalue="Application.BlockTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.SubClass" />
-        <item itemvalue="Application.Wolf" />
+        <item itemvalue="Application.BlockTest" />
+        <item itemvalue="Application.PigTest" />
+        <item itemvalue="Application.ScopeTest" />
         <item itemvalue="Application.HideTest" />
-        <item itemvalue="Application.Ostrich" />
       </list>
     </recent_temporary>
   </component>

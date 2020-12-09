@@ -1,7 +1,5 @@
 package com.oriented;
 
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
-
 public class SubClass extends BaseClass{
     //重新定义一个book实例变量隐藏父类的book实例变量
     public String book="轻量级JAVAEE企业应用实战";
