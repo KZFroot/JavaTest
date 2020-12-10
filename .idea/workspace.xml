@@ -23,12 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b97ac318-e6d2-48b2-bc2f-219b151320e2" name="Default Changelist" comment="1202">
+      <change afterPath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/InstanceInitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/InstanceofTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/InstanceInitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/InstanceofTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/Leaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/Mid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oriented/Root.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oriented/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oriented/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oriented/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/Creature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oriented/SubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/SubClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oriented/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/Wolf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/SubClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/SubClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,9 +102,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.SubClass">
-    <configuration name="HideTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.HideTest" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="InstanceInitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.InstanceInitTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ostrich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.Ostrich" />
+    <configuration name="InstanceofTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.InstanceofTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -139,6 +142,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oriented.Test" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Wolf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oriented.Wolf" />
       <module name="JavaTest" />
@@ -152,32 +168,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.Ostrich" />
-      <item itemvalue="Application.HideTest" />
       <item itemvalue="Application.Wolf" />
       <item itemvalue="Application.SubClass" />
+      <item itemvalue="Application.InstanceofTest" />
+      <item itemvalue="Application.InstanceInitTest" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.InstanceInitTest" />
+        <item itemvalue="Application.InstanceofTest" />
         <item itemvalue="Application.SubClass" />
         <item itemvalue="Application.Wolf" />
-        <item itemvalue="Application.HideTest" />
-        <item itemvalue="Application.Ostrich" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +232,7 @@
       <workItem from="1607001997003" duration="5114000" />
       <workItem from="1607236939407" duration="4690000" />
       <workItem from="1607364660124" duration="1284000" />
+      <workItem from="1607562110164" duration="2573000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -288,28 +305,28 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="519" y="597" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605774247281" />
-    <state width="1306" height="168" key="GridCell.Tab.0.bottom" timestamp="1607373672110">
+    <state width="1306" height="168" key="GridCell.Tab.0.bottom" timestamp="1607385648817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607373672110" />
+    <state width="1306" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607385648817" />
     <state width="1397" height="226" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1194" height="362" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1306" height="168" key="GridCell.Tab.0.center" timestamp="1607373672110">
+    <state width="1306" height="168" key="GridCell.Tab.0.center" timestamp="1607385648817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607373672110" />
+    <state width="1306" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607385648817" />
     <state width="1397" height="226" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1194" height="362" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1306" height="168" key="GridCell.Tab.0.left" timestamp="1607373672109">
+    <state width="1306" height="168" key="GridCell.Tab.0.left" timestamp="1607385648817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607373672109" />
+    <state width="1306" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607385648817" />
     <state width="1397" height="226" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1194" height="362" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1306" height="168" key="GridCell.Tab.0.right" timestamp="1607373672110">
+    <state width="1306" height="168" key="GridCell.Tab.0.right" timestamp="1607385648817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607373672110" />
+    <state width="1306" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607385648817" />
     <state width="1397" height="226" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1194" height="362" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
     <state width="1262" height="490" key="GridCell.Tab.1.bottom" timestamp="1606120812978">
@@ -365,10 +382,10 @@
     <state x="358" y="167" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1607373733052" />
     <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1604604216539" />
     <state x="670" y="321" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606114693334" />
-    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup" timestamp="1607371906189">
+    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup" timestamp="1607564170350">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607371906189" />
+    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607564170350" />
     <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1605514887232" />
     <state x="681" y="297" width="1195" height="1032" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606123383223" />
   </component>
