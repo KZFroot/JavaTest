@@ -26,6 +26,5 @@ public class Primitive2String {
         Integer a=new Integer(6);
         //输出
         System.out.println("6的包装类实例是否大于5.0"+(a>5.0));
-        
     }
 }
