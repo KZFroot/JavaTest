@@ -23,8 +23,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c37700-c032-42e8-97c1-5ec29bb942c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/OverrideEqualsError1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/StringCompareTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ObjectOriented/Primitive2String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ObjectOriented/Primitive2String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Primitive2String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Primitive2String.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -95,7 +101,25 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="Application.Primitive2String">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ObjectOriented" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OverrideEqualsError1">
+    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.Apple" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ObjectOriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AutoBoxingUnboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.AutoBoxingUnboxing" />
       <module name="JavaTest" />
@@ -109,25 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.BlockTest" />
+    <configuration name="OverrideEqualsError1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.OverrideEqualsError1" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InstanceInitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.InstanceInitTest" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
+          <option name="PATTERN" value="com.ObjectOriented.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.Test" />
+    <configuration name="StringCompareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.StringCompareTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
+          <option name="PATTERN" value="com.ObjectOriented.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,21 +172,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.InstanceInitTest" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.BlockTest" />
       <item itemvalue="Application.AutoBoxingUnboxing" />
       <item itemvalue="Application.Primitive2String" />
+      <item itemvalue="Application.Apple" />
+      <item itemvalue="Application.StringCompareTest" />
+      <item itemvalue="Application.OverrideEqualsError1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OverrideEqualsError1" />
+        <item itemvalue="Application.StringCompareTest" />
+        <item itemvalue="Application.Apple" />
         <item itemvalue="Application.Primitive2String" />
         <item itemvalue="Application.AutoBoxingUnboxing" />
-        <item itemvalue="Application.BlockTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.InstanceInitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +238,7 @@
       <workItem from="1607364660124" duration="1284000" />
       <workItem from="1607562110164" duration="6236000" />
       <workItem from="1607692344329" duration="5720000" />
+      <workItem from="1608253084897" duration="7521000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -264,10 +287,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="120" y="274" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1607174289140" />
-    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1607372190346">
+    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1608274619068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1607372190346" />
+    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1608274619068" />
     <state x="376" y="493" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605794449059">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -288,28 +311,28 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="519" y="597" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605774247281" />
-    <state width="1306" height="168" key="GridCell.Tab.0.bottom" timestamp="1607730450521">
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1608275382605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607730450521" />
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608275382605" />
     <state width="1397" height="226" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1194" height="362" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1306" height="168" key="GridCell.Tab.0.center" timestamp="1607730450521">
+    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1608275382605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607730450521" />
+    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608275382605" />
     <state width="1397" height="226" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1194" height="362" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1306" height="168" key="GridCell.Tab.0.left" timestamp="1607730450521">
+    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1608275382605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607730450521" />
+    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608275382605" />
     <state width="1397" height="226" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1194" height="362" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1306" height="168" key="GridCell.Tab.0.right" timestamp="1607730450521">
+    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1608275382605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607730450521" />
+    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608275382605" />
     <state width="1397" height="226" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1194" height="362" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
     <state width="1262" height="490" key="GridCell.Tab.1.bottom" timestamp="1606120812978">
@@ -365,11 +388,22 @@
     <state x="358" y="167" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1607373733052" />
     <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1604604216539" />
     <state x="670" y="321" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606114693334" />
-    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup" timestamp="1607693527156">
+    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup" timestamp="1608258267693">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607693527156" />
+    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1608258267693" />
     <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1605514887232" />
     <state x="681" y="297" width="1195" height="1032" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606123383223" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ObjectOriented/StringCompareTest.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
