@@ -23,13 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c37700-c032-42e8-97c1-5ec29bb942c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/OverrideEqualsError1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/StringCompareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Primitive2String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Primitive2String.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,22 +101,9 @@
       <recent name="com.ObjectOriented" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OverrideEqualsError1">
+  <component name="RunManager" selected="Application.Singleton">
     <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.Apple" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ObjectOriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AutoBoxingUnboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.AutoBoxingUnboxing" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -159,6 +141,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.Singleton" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ObjectOriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringCompareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.StringCompareTest" />
       <module name="JavaTest" />
@@ -185,19 +180,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.AutoBoxingUnboxing" />
       <item itemvalue="Application.Primitive2String" />
       <item itemvalue="Application.Apple" />
       <item itemvalue="Application.StringCompareTest" />
       <item itemvalue="Application.OverrideEqualsError1" />
+      <item itemvalue="Application.Singleton" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Singleton" />
         <item itemvalue="Application.OverrideEqualsError1" />
         <item itemvalue="Application.StringCompareTest" />
         <item itemvalue="Application.Apple" />
         <item itemvalue="Application.Primitive2String" />
-        <item itemvalue="Application.AutoBoxingUnboxing" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +233,7 @@
       <workItem from="1607364660124" duration="1284000" />
       <workItem from="1607562110164" duration="6236000" />
       <workItem from="1607692344329" duration="5720000" />
-      <workItem from="1608253084897" duration="7521000" />
+      <workItem from="1608253084897" duration="12582000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -388,22 +383,11 @@
     <state x="358" y="167" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1607373733052" />
     <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1604604216539" />
     <state x="670" y="321" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606114693334" />
-    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup" timestamp="1608258267693">
+    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup" timestamp="1608285399550">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1608258267693" />
+    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1608285399550" />
     <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1605514887232" />
     <state x="681" y="297" width="1195" height="1032" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606123383223" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/ObjectOriented/StringCompareTest.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
