@@ -23,7 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c37700-c032-42e8-97c1-5ec29bb942c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/FinalLocalVariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ObjectOriented/FinalVariableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,9 +102,22 @@
       <recent name="com.ObjectOriented" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Singleton">
-    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.Apple" />
+  <component name="RunManager" selected="Application.FinalLocalVariableTest">
+    <configuration name="FinalLocalVariableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.FinalLocalVariableTest" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ObjectOriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalVariableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.FinalVariableTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -117,19 +131,6 @@
     </configuration>
     <configuration name="OverrideEqualsError1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.OverrideEqualsError1" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ObjectOriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Primitive2String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.Primitive2String" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -167,32 +168,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.Primitive2String" />
-      <item itemvalue="Application.Apple" />
       <item itemvalue="Application.StringCompareTest" />
       <item itemvalue="Application.OverrideEqualsError1" />
       <item itemvalue="Application.Singleton" />
+      <item itemvalue="Application.FinalVariableTest" />
+      <item itemvalue="Application.FinalLocalVariableTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalLocalVariableTest" />
+        <item itemvalue="Application.FinalVariableTest" />
         <item itemvalue="Application.Singleton" />
         <item itemvalue="Application.OverrideEqualsError1" />
         <item itemvalue="Application.StringCompareTest" />
-        <item itemvalue="Application.Apple" />
-        <item itemvalue="Application.Primitive2String" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +236,8 @@
       <workItem from="1607364660124" duration="1284000" />
       <workItem from="1607562110164" duration="6236000" />
       <workItem from="1607692344329" duration="5720000" />
-      <workItem from="1608253084897" duration="12582000" />
+      <workItem from="1608253084897" duration="13492000" />
+      <workItem from="1608382397363" duration="4874000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -306,28 +310,28 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="519" y="597" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605774247281" />
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1608275382605">
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1608400690171">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608275382605" />
+    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608400690171" />
     <state width="1397" height="226" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1194" height="362" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1608275382605">
+    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1608400690171">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608275382605" />
+    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608400690171" />
     <state width="1397" height="226" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1194" height="362" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1608275382605">
+    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1608400690170">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608275382605" />
+    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608400690170" />
     <state width="1397" height="226" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1194" height="362" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1608275382605">
+    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1608400690171">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608275382605" />
+    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608400690171" />
     <state width="1397" height="226" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1605527326080" />
     <state width="1194" height="362" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
     <state width="1262" height="490" key="GridCell.Tab.1.bottom" timestamp="1606120812978">
