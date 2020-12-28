@@ -13,6 +13,8 @@ public class Test {
        //  p.info();
         //将p变量赋值给p2,就是把p的引用地址赋值给p2变量，这样p2变量和p变量将指向堆内存里的同一个person对象
        // Pig p2=p;
+        new Leaf();
+        new Leaf();
 
 
     }
