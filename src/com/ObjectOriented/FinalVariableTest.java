@@ -1,6 +1,5 @@
 package com.ObjectOriented;
 
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 
 public class FinalVariableTest {
     //定义成员变量时指定默认值 合法

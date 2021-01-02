@@ -23,10 +23,91 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c37700-c032-42e8-97c1-5ec29bb942c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/JavaTest/com/git .txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/git .txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/FinalMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/FinalMethodTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ObjectOriented/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ObjectOriented/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ObjectOriented/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ObjectOriented/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/AutoBoxingUnboxing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/FinalLocalVariableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/FinalMethodTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/FinalVariableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/OverrideEqualsError1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Primitive2String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/StringCompareTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/ObjectOriented/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/company/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Aaary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/ArrayInRam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Arrays$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Arrays$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Gobang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Main$Cycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Multiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Nestedoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Num2Rmb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/PrimitiveArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/ProcessControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/ProcessControl1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/ReferenceArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/TernaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/TwoDimensionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Variable2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/kejie/Variable3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/BlockTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/ClassVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/ConstructorOverload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/ConstructorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Creature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/DateWrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Derived.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/DogTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/HideTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/InstanceInitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/InstanceofTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Leaf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Mid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Ostrich.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Overload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/OverloadVarargs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/PigTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/PrimitiveTransferTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Recursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/ReferenceTransferTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Root.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/ScopeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/StaticAccessNonStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/StaticImportTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/ThisInConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Varargs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/VariableOverrideTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/Wolf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ObjectOriented/FinalVariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ObjectOriented/FinalVariableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oriented/InstanceofTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/InstanceofTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oriented/Root.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/Root.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/oriented/SubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oriented/SubClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +174,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -103,9 +184,22 @@
       <recent name="com.ObjectOriented" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Circle">
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.Circle" />
+  <component name="RunManager" selected="Application.AutoBoxingUnboxing">
+    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.Apple" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ObjectOriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoBoxingUnboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.AutoBoxingUnboxing" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -143,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.Singleton" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ObjectOriented.*" />
+          <option name="PATTERN" value="com.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,34 +250,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ObjectOriented.Sub" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ObjectOriented.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.Singleton" />
       <item itemvalue="Application.FinalVariableTest" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Apple" />
+      <item itemvalue="Application.AutoBoxingUnboxing" />
       <item itemvalue="Application.FinalLocalVariableTest" />
-      <item itemvalue="Application.Sub" />
-      <item itemvalue="Application.Circle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.Sub" />
-        <item itemvalue="Application.FinalLocalVariableTest" />
+        <item itemvalue="Application.AutoBoxingUnboxing" />
         <item itemvalue="Application.FinalVariableTest" />
-        <item itemvalue="Application.Singleton" />
+        <item itemvalue="Application.FinalLocalVariableTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Apple" />
       </list>
     </recent_temporary>
   </component>
@@ -371,12 +465,12 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1094" y="401" key="RollbackChangesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1606025867499" />
-    <state x="1" y="0" key="SettingsEditor" timestamp="1608963867287">
+    <state x="1" y="0" key="SettingsEditor" timestamp="1609551324446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608963867287" />
+    <state x="1" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609551324446" />
     <state x="222" y="105" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1604055231563" />
-    <state x="1" y="223" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1605797052490" />
+    <state x="1" y="223" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1609167728445" />
     <state x="239" y="433" key="Vcs.Push.Dialog.v2" timestamp="1606126744866">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
