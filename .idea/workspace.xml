@@ -23,24 +23,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c37700-c032-42e8-97c1-5ec29bb942c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/Arith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/BigDecimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/CalendarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/DoubleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/FindGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/LocaleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/MatchesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/MathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/NewDatePackageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/ObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/RandomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/ReplaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/StartEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/StringBuildTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oriented/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/CollectionEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/ForeachTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/HashCodeTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/R.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/LocaleList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/LocaleList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +68,13 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/collection1/IteratorTest.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/collection1/CollectionEach.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/collection1/CollectionTest.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/com/kejie/Num2Rmb.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/collection1/ForeachTest.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/ObjectOriented/FinalLocalVariableTest.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/collection1/HashCodeTest2.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -111,20 +111,20 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.ObjectOriented" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LocaleList">
-    <configuration name="FindGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.FindGroup" />
+  <component name="RunManager" selected="Application.HashCodeTest2">
+    <configuration name="Aaary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kejie.Aaary" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
+          <option name="PATTERN" value="com.kejie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocaleList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.LocaleList" />
+    <configuration name="ForeachTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.ForeachTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
+          <option name="PATTERN" value="com.collection1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatchesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.MatchesTest" />
+    <configuration name="HashCodeTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.HashCodeTest2" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
+          <option name="PATTERN" value="com.collection1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.ReplaceTest" />
+    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.HashSetTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
+          <option name="PATTERN" value="com.collection1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,45 +171,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StartEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oriented.StartEnd" />
+    <configuration name="IteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.IteratorTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oriented.*" />
+          <option name="PATTERN" value="com.collection1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.FindGroup" />
-      <item itemvalue="Application.StartEnd" />
-      <item itemvalue="Application.MatchesTest" />
-      <item itemvalue="Application.ReplaceTest" />
-      <item itemvalue="Application.LocaleList" />
+      <item itemvalue="Application.IteratorTest" />
+      <item itemvalue="Application.Aaary" />
+      <item itemvalue="Application.ForeachTest" />
+      <item itemvalue="Application.HashSetTest" />
+      <item itemvalue="Application.HashCodeTest2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LocaleList" />
-        <item itemvalue="Application.ReplaceTest" />
-        <item itemvalue="Application.MatchesTest" />
-        <item itemvalue="Application.StartEnd" />
-        <item itemvalue="Application.FindGroup" />
+        <item itemvalue="Application.HashCodeTest2" />
+        <item itemvalue="Application.HashSetTest" />
+        <item itemvalue="Application.ForeachTest" />
+        <item itemvalue="Application.Aaary" />
+        <item itemvalue="Application.IteratorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +256,15 @@
       <workItem from="1614948253388" duration="1865000" />
       <workItem from="1615077675878" duration="5394000" />
       <workItem from="1615163918115" duration="14909000" />
-      <workItem from="1615528975446" duration="7627000" />
+      <workItem from="1615528975446" duration="8606000" />
+      <workItem from="1615858723434" duration="641000" />
+      <workItem from="1615874861915" duration="8000" />
+      <workItem from="1615876141287" duration="6110000" />
+      <workItem from="1615992103987" duration="23000" />
+      <workItem from="1615992648658" duration="1877000" />
+      <workItem from="1616553551056" duration="4033000" />
+      <workItem from="1617257660039" duration="7070000" />
+      <workItem from="1617929016837" duration="1234000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -311,66 +308,59 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="399" y="262" key="#Custom_Plugin_Repositories/0.0.1366.728@0.0.1366.728" timestamp="1608963791556" />
-    <state x="120" y="274" key="#Project_Structure" timestamp="1607174289140">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="120" y="274" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1607174289140" />
     <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1609079014905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609079014905" />
-    <state x="459" y="256" width="447" height="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608600131551">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="459" y="256" width="447" height="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1608600131551" />
-    <state x="422" y="172" key="FileChooserDialogImpl" timestamp="1614636997609">
+    <state x="422" y="172" key="FileChooserDialogImpl" timestamp="1615874867910">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="422" y="172" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1614636997609" />
-    <state width="1397" height="235" key="GridCell.Tab.0.bottom" timestamp="1615537361864">
+    <state x="422" y="172" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1615874867910" />
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1617277764890">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1306" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609112169750" />
-    <state width="1397" height="235" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1615537361864" />
-    <state width="1194" height="362" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1397" height="235" key="GridCell.Tab.0.center" timestamp="1615537361864">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1617277764890" />
+    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1617277764890">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1306" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609112169750" />
-    <state width="1397" height="235" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1615537361864" />
-    <state width="1194" height="362" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1397" height="235" key="GridCell.Tab.0.left" timestamp="1615537361863">
+    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1617277764890" />
+    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1617277764890">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1306" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609112169750" />
-    <state width="1397" height="235" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1615537361863" />
-    <state width="1194" height="362" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1397" height="235" key="GridCell.Tab.0.right" timestamp="1615537361864">
+    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1617277764890" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1617277764890">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1306" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609112169750" />
-    <state width="1397" height="235" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1615537361864" />
-    <state width="1194" height="362" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607335342683" />
-    <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1614166576982">
+    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1617277764890" />
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1615884590314">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="300" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1614166576982" />
-    <state width="1397" height="300" key="GridCell.Tab.1.center" timestamp="1614166576982">
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1615884590314" />
+    <state width="1397" height="300" key="GridCell.Tab.1.center" timestamp="1615884590314">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="300" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1614166576982" />
-    <state width="1397" height="300" key="GridCell.Tab.1.left" timestamp="1614166576982">
+    <state width="1397" height="300" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1615884590314" />
+    <state width="1397" height="300" key="GridCell.Tab.1.left" timestamp="1615884590313">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="300" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1614166576982" />
-    <state width="1397" height="300" key="GridCell.Tab.1.right" timestamp="1614166576982">
+    <state width="1397" height="300" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1615884590313" />
+    <state width="1397" height="300" key="GridCell.Tab.1.right" timestamp="1615884590314">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1614166576982" />
-    <state x="1" y="0" key="SettingsEditor" timestamp="1609551324446">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1615884590314" />
+    <state x="562" y="162" key="RollbackChangesDialog" timestamp="1616557860989">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="562" y="162" key="RollbackChangesDialog/0.0.1440.920@0.0.1440.920" timestamp="1616557860989" />
+    <state x="1" y="0" key="SettingsEditor" timestamp="1616566798776">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="1" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609551324446" />
+    <state x="1" y="0" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1616566798776" />
     <state x="1" y="223" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1609167728445" />
     <state x="312" y="71" key="new project wizard" timestamp="1614637000357">
       <screen x="0" y="0" width="1440" height="920" />
@@ -379,13 +369,12 @@
     <state x="377" y="211" key="run.anything.popup" timestamp="1614146602718">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="358" y="167" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1607373733052" />
     <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1614146602718" />
-    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1615535874938">
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1616557675559">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="363" y="154" width="672" height="537" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1609076109714" />
-    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1615535874938" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1616557675559" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
