@@ -23,18 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c37700-c032-42e8-97c1-5ec29bb942c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/CollectionEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/ForeachTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/HashCodeTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/HashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/EnumSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/EnumSetTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/Err.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/LinkedHashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/TreeSetErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/TreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/TreeSetTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/Z.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/LocaleList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/oriented/LocaleList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +71,12 @@
     <setting file="file://$PROJECT_DIR$/src/com/collection1/CollectionTest.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/com/kejie/Num2Rmb.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/com/collection1/ForeachTest.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/collection1/EnumSetTest2.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/collection1/TreeSetErrorTest.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/com/ObjectOriented/FinalLocalVariableTest.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/collection1/TreeSetTest.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/com/collection1/HashCodeTest2.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/collection1/LinkedHashSetTest.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -111,29 +113,16 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.ObjectOriented" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashCodeTest2">
-    <configuration name="Aaary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kejie.Aaary" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kejie.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForeachTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection1.ForeachTest" />
+  <component name="RunManager" selected="Application.EnumSetTest2">
+    <configuration name="EnumSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.EnumSetTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashCodeTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection1.HashCodeTest2" />
+    <configuration name="EnumSetTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.EnumSetTest2" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -158,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection1.HashSetTest" />
+    <configuration name="LinkedHashSetTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.LinkedHashSetTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -171,8 +160,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection1.IteratorTest" />
+    <configuration name="TreeSetErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.TreeSetErrorTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -180,25 +169,65 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.TreeSetTest" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collection1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.TreeSetTest2" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collection1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
-      <item itemvalue="Application.IteratorTest" />
-      <item itemvalue="Application.Aaary" />
-      <item itemvalue="Application.ForeachTest" />
-      <item itemvalue="Application.HashSetTest" />
-      <item itemvalue="Application.HashCodeTest2" />
+      <item itemvalue="Application.LinkedHashSetTest" />
+      <item itemvalue="Application.TreeSetTest" />
+      <item itemvalue="Application.TreeSetErrorTest" />
+      <item itemvalue="Application.TreeSetTest2" />
+      <item itemvalue="Application.EnumSetTest" />
+      <item itemvalue="Application.EnumSetTest2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashCodeTest2" />
-        <item itemvalue="Application.HashSetTest" />
-        <item itemvalue="Application.ForeachTest" />
-        <item itemvalue="Application.Aaary" />
-        <item itemvalue="Application.IteratorTest" />
+        <item itemvalue="Application.EnumSetTest2" />
+        <item itemvalue="Application.EnumSetTest" />
+        <item itemvalue="Application.TreeSetTest2" />
+        <item itemvalue="Application.TreeSetErrorTest" />
+        <item itemvalue="Application.TreeSetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +293,9 @@
       <workItem from="1615992648658" duration="1877000" />
       <workItem from="1616553551056" duration="4033000" />
       <workItem from="1617257660039" duration="7070000" />
-      <workItem from="1617929016837" duration="1234000" />
+      <workItem from="1617929016837" duration="7747000" />
+      <workItem from="1618057646567" duration="1706000" />
+      <workItem from="1618274054579" duration="10443000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -304,38 +335,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="1202" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="399" y="262" key="#Custom_Plugin_Repositories" timestamp="1608963791556">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="526" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1618285528141">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="399" y="262" key="#Custom_Plugin_Repositories/0.0.1366.728@0.0.1366.728" timestamp="1608963791556" />
-    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1609079014905">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="488" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609079014905" />
+    <state x="526" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1618285528141" />
     <state x="422" y="172" key="FileChooserDialogImpl" timestamp="1615874867910">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="422" y="172" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1615874867910" />
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1617277764890">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1618298359852">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1306" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609112169750" />
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1617277764890" />
-    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1617277764890">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1618298359852" />
+    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1618298359852">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1306" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609112169750" />
-    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1617277764890" />
-    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1617277764890">
+    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1618298359852" />
+    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1618298359852">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1306" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609112169750" />
-    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1617277764890" />
-    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1617277764890">
+    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1618298359852" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1618298359852">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1306" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609112169750" />
-    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1617277764890" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1618298359852" />
     <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1615884590314">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -356,12 +379,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="562" y="162" key="RollbackChangesDialog/0.0.1440.920@0.0.1440.920" timestamp="1616557860989" />
-    <state x="1" y="0" key="SettingsEditor" timestamp="1616566798776">
+    <state x="169" y="110" key="SettingsEditor" timestamp="1618277924620">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="1" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609551324446" />
-    <state x="1" y="0" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1616566798776" />
-    <state x="1" y="223" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1609167728445" />
+    <state x="169" y="110" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1618277924620" />
     <state x="312" y="71" key="new project wizard" timestamp="1614637000357">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -370,11 +391,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1614146602718" />
-    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1616557675559">
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1618278301206">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="363" y="154" width="672" height="537" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1609076109714" />
-    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1616557675559" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1618278301206" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
