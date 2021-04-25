@@ -23,16 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c37700-c032-42e8-97c1-5ec29bb942c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/EnumSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/EnumSetTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/Err.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/LinkedHashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/TreeSetErrorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/TreeSetTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/Z.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/ArrayDequeStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/FixedSizeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/ListIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/ListTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/ListTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/PriorityQueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/collection1/TreeSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/collection1/TreeSetTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +72,7 @@
     <setting file="file://$PROJECT_DIR$/src/com/collection1/ForeachTest.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/com/collection1/EnumSetTest2.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/com/collection1/TreeSetErrorTest.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/collection1/ListTest.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/com/ObjectOriented/FinalLocalVariableTest.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/com/collection1/TreeSetTest.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/com/collection1/HashCodeTest2.java" root0="SKIP_HIGHLIGHTING" />
@@ -120,9 +120,9 @@
       <recent name="com.ObjectOriented" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnumSetTest2">
-    <configuration name="EnumSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection1.EnumSetTest" />
+  <component name="RunManager" selected="Application.ArrayDequeStack">
+    <configuration name="ArrayDequeStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.ArrayDequeStack" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumSetTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection1.EnumSetTest2" />
+    <configuration name="FixedSizeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.FixedSizeList" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -160,8 +160,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection1.TreeSetErrorTest" />
+    <configuration name="ListIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.ListIteratorTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -173,8 +173,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection1.TreeSetTest" />
+    <configuration name="ListTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.ListTest3" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -186,8 +186,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection1.TreeSetTest2" />
+    <configuration name="PriorityQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.PriorityQueueTest" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -215,19 +215,19 @@
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
       <item itemvalue="Application.LinkedHashSetTest" />
-      <item itemvalue="Application.TreeSetTest" />
-      <item itemvalue="Application.TreeSetErrorTest" />
-      <item itemvalue="Application.TreeSetTest2" />
-      <item itemvalue="Application.EnumSetTest" />
-      <item itemvalue="Application.EnumSetTest2" />
+      <item itemvalue="Application.ListTest3" />
+      <item itemvalue="Application.ListIteratorTest" />
+      <item itemvalue="Application.FixedSizeList" />
+      <item itemvalue="Application.PriorityQueueTest" />
+      <item itemvalue="Application.ArrayDequeStack" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnumSetTest2" />
-        <item itemvalue="Application.EnumSetTest" />
-        <item itemvalue="Application.TreeSetTest2" />
-        <item itemvalue="Application.TreeSetErrorTest" />
-        <item itemvalue="Application.TreeSetTest" />
+        <item itemvalue="Application.ArrayDequeStack" />
+        <item itemvalue="Application.PriorityQueueTest" />
+        <item itemvalue="Application.FixedSizeList" />
+        <item itemvalue="Application.ListIteratorTest" />
+        <item itemvalue="Application.ListTest3" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +295,13 @@
       <workItem from="1617257660039" duration="7070000" />
       <workItem from="1617929016837" duration="7747000" />
       <workItem from="1618057646567" duration="1706000" />
-      <workItem from="1618274054579" duration="10443000" />
+      <workItem from="1618274054579" duration="11822000" />
+      <workItem from="1618303291573" duration="176000" />
+      <workItem from="1618304427838" duration="1279000" />
+      <workItem from="1618409873913" duration="1086000" />
+      <workItem from="1618787629528" duration="2630000" />
+      <workItem from="1618965913880" duration="2721000" />
+      <workItem from="1619096222203" duration="5577000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -335,6 +341,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="1202" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="457" y="284" key="#Notifications" timestamp="1618409927119">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="457" y="284" key="#Notifications/0.0.1440.920@0.0.1440.920" timestamp="1618409927119" />
     <state x="526" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1618285528141">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -343,38 +353,38 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="422" y="172" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1615874867910" />
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1618298359852">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1619136008783">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1618298359852" />
-    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1618298359852">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1619136008783" />
+    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1619136008783">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1618298359852" />
-    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1618298359852">
+    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1619136008783" />
+    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1619136008783">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1618298359852" />
-    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1618298359852">
+    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1619136008783" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1619136008783">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1618298359852" />
-    <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1615884590314">
+    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1619136008783" />
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1618790262031">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="300" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1615884590314" />
-    <state width="1397" height="300" key="GridCell.Tab.1.center" timestamp="1615884590314">
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1618790262031" />
+    <state width="1397" height="300" key="GridCell.Tab.1.center" timestamp="1618790262031">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="300" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1615884590314" />
-    <state width="1397" height="300" key="GridCell.Tab.1.left" timestamp="1615884590313">
+    <state width="1397" height="300" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1618790262031" />
+    <state width="1397" height="300" key="GridCell.Tab.1.left" timestamp="1618790262031">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="300" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1615884590313" />
-    <state width="1397" height="300" key="GridCell.Tab.1.right" timestamp="1615884590314">
+    <state width="1397" height="300" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1618790262031" />
+    <state width="1397" height="300" key="GridCell.Tab.1.right" timestamp="1618790262031">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1615884590314" />
+    <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1618790262031" />
     <state x="562" y="162" key="RollbackChangesDialog" timestamp="1616557860989">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -391,10 +401,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1614146602718" />
-    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1618278301206">
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1619135632065">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1618278301206" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1619135632065" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
