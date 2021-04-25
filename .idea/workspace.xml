@@ -23,14 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c37700-c032-42e8-97c1-5ec29bb942c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/ArrayDequeQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/MapTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/NullInHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/HashtableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/collection1/ArrayDequeStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/collection1/ArrayDequeStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/collection1/ArrayDequeStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection1/ArrayDequeStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -301,7 +295,7 @@
       <workItem from="1618787629528" duration="2630000" />
       <workItem from="1618965913880" duration="2721000" />
       <workItem from="1619096222203" duration="5577000" />
-      <workItem from="1619311516560" duration="13420000" />
+      <workItem from="1619311516560" duration="14867000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
