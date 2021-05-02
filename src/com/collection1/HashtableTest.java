@@ -15,7 +15,7 @@ public class HashtableTest {
         System.out.println(ht.containsValue("测试字符串"));
         //只要两个A对象的count相等,它们通过equals()方法比较返回true,hashCode值相等
         //Hashtable即认为它们是相同的key 所以下面输出true
-        System.out.println(ht.containsKey(new J(87563)));
+       System.out.println(ht.containsKey(new J(87563)));
         //下面语句可以删除最后一个key-value对
         ht.remove(new J(1232));
         System.out.println(ht);
