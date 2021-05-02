@@ -23,11 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c37700-c032-42e8-97c1-5ec29bb942c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/HashMapErrorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection1/LinkedHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection1/PropertiesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTest/com/collection1/HashtableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTest/com/collection1/HashtableTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/collection1/HashtableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection1/HashtableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection1/LinkedHashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection1/LinkedHashMapTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +114,7 @@
       <recent name="com.ObjectOriented" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashMapErrorTest">
+  <component name="RunManager" selected="Application.PropertiesTest">
     <configuration name="HashMapErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.collection1.HashMapErrorTest" />
       <module name="JavaTest" />
@@ -143,34 +141,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedHashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.LinkedHashMapTest" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collection1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkedHashSetTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.collection1.LinkedHashSetTest" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.collection1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection1.MapTest" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.collection1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection1.MapTest2" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -195,22 +180,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PropertiesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection1.PropertiesTest" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collection1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
       <item itemvalue="Application.LinkedHashSetTest" />
-      <item itemvalue="Application.MapTest" />
-      <item itemvalue="Application.MapTest2" />
       <item itemvalue="Application.NullInHashMap" />
       <item itemvalue="Application.HashtableTest" />
       <item itemvalue="Application.HashMapErrorTest" />
+      <item itemvalue="Application.LinkedHashMapTest" />
+      <item itemvalue="Application.PropertiesTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PropertiesTest" />
+        <item itemvalue="Application.LinkedHashMapTest" />
         <item itemvalue="Application.HashMapErrorTest" />
         <item itemvalue="Application.HashtableTest" />
         <item itemvalue="Application.NullInHashMap" />
-        <item itemvalue="Application.MapTest2" />
-        <item itemvalue="Application.MapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -288,6 +297,7 @@
       <workItem from="1619311516560" duration="14868000" />
       <workItem from="1619570550385" duration="7720000" />
       <workItem from="1619658045757" duration="6073000" />
+      <workItem from="1619916361354" duration="3625000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -339,22 +349,22 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="422" y="172" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1615874867910" />
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1619696808188">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1619945178977">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1619696808188" />
-    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1619696808188">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1619945178977" />
+    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1619945178977">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1619696808188" />
-    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1619696808188">
+    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1619945178977" />
+    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1619945178977">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1619696808188" />
-    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1619696808188">
+    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1619945178977" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1619945178977">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1619696808188" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1619945178977" />
     <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1618790262031">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
