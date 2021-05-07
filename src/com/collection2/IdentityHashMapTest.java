@@ -14,6 +14,4 @@ public class IdentityHashMapTest {
         System.out.println(ihm);
         //前两个key-value对 key是新建的字符串对象 通过==比较不相等
     }
-
-
 }
