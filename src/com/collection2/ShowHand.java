@@ -131,5 +131,4 @@ public class ShowHand {
         sh.deliverCard("电脑玩家");
         sh.showPlayerCards();
     }
-
 }
