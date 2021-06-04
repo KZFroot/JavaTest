@@ -13,6 +13,6 @@ public class ListErr {
         strList.add("疯狂Android");
         //不小心把一个Integer对象丢进集合
         strList.add(5);
-        strList.forEach(str-);
+        strList.forEach(str-> System.out.println(((String)str).length()));
     }
 }
