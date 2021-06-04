@@ -22,7 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c37700-c032-42e8-97c1-5ec29bb942c9" name="Default Changelist" comment="" />
+    <list default="true" id="27c37700-c032-42e8-97c1-5ec29bb942c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/collection2/EnumerationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection2/UnmodifiableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,20 +114,7 @@
       <recent name="com.ObjectOriented" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SynchronizedTest">
-    <configuration name="IdentityHashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection2.IdentityHashMapTest" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.collection2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UnmodifiableTest">
     <configuration name="LinkedHashSetTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.collection1.LinkedHashSetTest" />
       <module name="JavaTest" />
@@ -189,15 +180,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+    <configuration name="UnmodifiableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection2.UnmodifiableTest" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collection2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -205,19 +196,19 @@
     <list>
       <item itemvalue="Application.PrimitiveArrayTest" />
       <item itemvalue="Application.LinkedHashSetTest" />
-      <item itemvalue="Application.IdentityHashMapTest" />
       <item itemvalue="Application.SortTest" />
       <item itemvalue="Application.ShowHand" />
       <item itemvalue="Application.SearchTest" />
       <item itemvalue="Application.SynchronizedTest" />
+      <item itemvalue="Application.UnmodifiableTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UnmodifiableTest" />
         <item itemvalue="Application.SynchronizedTest" />
         <item itemvalue="Application.SearchTest" />
         <item itemvalue="Application.ShowHand" />
         <item itemvalue="Application.SortTest" />
-        <item itemvalue="Application.IdentityHashMapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -303,6 +294,9 @@
       <workItem from="1620700025887" duration="795000" />
       <workItem from="1620822864066" duration="1196000" />
       <workItem from="1621756519040" duration="5498000" />
+      <workItem from="1622077163107" duration="4901000" />
+      <workItem from="1622422919830" duration="612000" />
+      <workItem from="1622550375587" duration="949000" />
     </task>
     <task id="LOCAL-00001" summary="测试提交">
       <created>1605774822686</created>
@@ -354,22 +348,22 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="422" y="172" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1615874867910" />
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1621769910692">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1622117049340">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1621769910692" />
-    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1621769910692">
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1622117049340" />
+    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1622117049340">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1621769910692" />
-    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1621769910692">
+    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1622117049340" />
+    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1622117049340">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1621769910692" />
-    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1621769910692">
+    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1622117049340" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1622117049340">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1621769910692" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1622117049340" />
     <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1618790262031">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
