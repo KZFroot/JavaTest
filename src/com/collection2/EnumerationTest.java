@@ -13,6 +13,13 @@ public class EnumerationTest {
         scores.put("语文",78);
         scores.put("数学",88);
         Enumeration em=v.elements();
-        
+        while (em.hasMoreElements()){
+            System.out.println(em.nextElement());
+        }
+        Enumeration keyEm=scores.keys();
+        while (keyEm.hasMoreElements()){
+            Object key=keyEm.nextElement();
+            System.out.println(key+"--->"+scores.get(key));
+        }
     }
 }
